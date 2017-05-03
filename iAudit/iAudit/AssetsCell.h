@@ -1,10 +1,3 @@
-//
-//  AssetsCell.h
-//  try1
-//
-//  Created by Divya Vuppala on 04/09/15.
-//  Copyright (c) 2015 CTS. All rights reserved.
-//
 
 #import <UIKit/UIKit.h>
 

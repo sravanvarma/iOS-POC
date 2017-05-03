@@ -1,10 +1,3 @@
-//
-//  Data.h
-//  DeviceAuditor
-//
-//  Created by Divya Vuppala on 29/10/15.
-//  Copyright (c) 2015 CTS. All rights reserved.
-//
 
 #import <Foundation/Foundation.h>
 #import <CoreData/CoreData.h>

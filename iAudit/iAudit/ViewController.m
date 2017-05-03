@@ -1,11 +1,3 @@
-//
-//  ViewController.m
-//  try1
-//
-//  Created by Divya Vuppala on 02/09/15.
-//  Copyright (c) 2015 CTS. All rights reserved.
-//
-
 #import "ViewController.h"
 #import "ScanController.h"
 #import "AssetsCell.h"
